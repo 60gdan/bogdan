@@ -1,0 +1,23 @@
+.title {
+    margin-top: 50px;
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+} 
+
+.label-name {
+    color:black;
+    padding-top: 5px;
+}
+.row-item {
+    margin: 15px;
+    font-size: x-large;
+}
+
+body {
+    background: #FFFFFF url(img/paper-background.jpg);
+    color: #FFFFFF;
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
